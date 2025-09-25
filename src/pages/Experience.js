@@ -10,32 +10,18 @@ import interninsider from '../images/interninsider.png'
 function Experience({ theme }) {  // Receive the 'theme' as a prop
   const experiences = [
     {
-      title: "Software Engineer Intern",
-      company: "SAP",
-      duration: "May 2025 - Present",
+      title: "Logistics",
+      company: "Amazon",
+      duration: "Sep 2025 - Present",
       description: "Supporting internal tools used by developers to deploy and manage microservices. Gaining hands-on experience with Kubernetes, Docker, and cloud-based systems (AWS/GCP/Azure).",
       logo: sap,
     },
     {
-      title: "Startup Engineer",
-      company: "Intern Insider",
-      duration: "Jan. 2025 - Apr. 2025",
-      description: "Partnered with my friend who founded Intern Insider, where I helped build web scrapers to populate a job board home to 8000+ active jobs. Gained hands-on exposure to the fast-paced startup environment and got the chance to network with Vancouver’s vibrant startup community.",
+      title: "Operations",
+      company: "HelloFresh",
+      duration: "Nov. 2023 - Feb. 2025",
+      description: "Gained experience in the food delivery industry on the strategy and operations team. Developed modelling tools to fulfil D2C orders at a lower unit cost.",
       logo: interninsider,
-    },
-    {
-      title: "Software Engineer Intern",
-      company: "ATPCO",
-      duration: "Jan. 2024 - Aug. 2024",
-      description: "I started on the fare identification engine that processed airline data, and I contributed to a large project of replacing SQL with RocksDB. For the second half of my internship, I worked on AWS Cloud systems, with a particular focus on leveraging AWS tools (S3, DynamoDB, EC2) to manage our microservice architecture.",
-      logo: atpco,
-    },
-    {
-      title: "Software Engineer Intern",
-      company: "Enerflex",
-      duration: "Sep. 2023 - Dec. 2023",
-      description: "Gained experience in the energy industry on the water solutions engineering team. Developed a custom Python tool for modelling and optimizing equipment for water treatment.",
-      logo: enerflex,
     },
   ];
 
