@@ -126,14 +126,14 @@ function AboutMe() {
             <div className="rightPanel">
                 <div className="title">About Me</div>
                 <p>
-                    Hello and thank you for visiting my portfolio. I'm Kevin, a software engineer who is chasing meaningful growth. I'm entering my 4th year of Computer Science + Business at UBC.
+                    Hello and thank you for visiting my portfolio. I'm Adrian, a software engineer who is chasing meaningful growth. I'm entering my 1st year of Finance + Data Science at USYD.
                 </p>
                 <p>
                 I'm naturally curious and grounded in the belief that success comes from staying hungry, especially in failure. I like to keep things interesting by saying yes to bold ideas, taking ownership, and chasing opportunities that help me level up. 
                 But most importantly, I care deeply about being a strong communicator and teammate. Some of the best work I’ve done came from honest conversations, shared wins, and figuring things out together in the messy middle.
                 </p>
                 <p>
-                Outside of work, you’ll find me deep in NBA fantasy analytics, traveling the world, or reflecting on how to live an exciting life. Studying abroad in Seoul and traveling abroad opened my eyes to new perspectives — and confirmed that exploration is core to how I grow, recharge, and find meaning.
+                Outside of work, you’ll find me deep in Football fantasy analytics, traveling the world, or reflecting on how to live an exciting life. Traveling abroad opened my eyes to new perspectives — and confirmed that exploration is core to how I grow, recharge, and find meaning.
                 </p>
                 <p>
                 If you’re looking for someone who’s not just here to “do the job” but to challenge, build, and bring energy into any team — let’s connect.
