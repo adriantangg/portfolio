@@ -133,7 +133,7 @@ function AboutMe() {
                 But most importantly, I care deeply about being a strong communicator and teammate. Some of the best work I’ve done came from honest conversations, shared wins, and figuring things out together in the messy middle.
                 </p>
                 <p>
-                Outside of work, you’ll find me deep in Football fantasy analytics, traveling the world, or reflecting on how to live an exciting life. Traveling abroad opened my eyes to new perspectives — and confirmed that exploration is core to how I grow, recharge, and find meaning.
+                Outside of work, you’ll find me catching up on Arsenal highlights, traveling the world, or reflecting on how to live an exciting life. Traveling abroad opened my eyes to new perspectives — and confirmed that exploration is core to how I grow, recharge, and find meaning.
                 </p>
                 <p>
                 If you’re looking for someone who’s not just here to “do the job” but to challenge, build, and bring energy into any team — let’s connect.
