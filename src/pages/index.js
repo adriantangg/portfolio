@@ -46,7 +46,7 @@ export default function Home() {
           {/* Style will be inherited from the parent element */}
           <Typewriter
             className="typewriter-text"
-            words={['Full Stack Developer', 'CS + Business Major', 'Digital Alchemist', 'Tomorrow\'s Builder']}
+            words={['Full Stack Developer', 'Finance + DS Major', 'Digital Alchemist', 'Tomorrow's Builder']}
             loop={false}
             cursor
             cursorStyle='|'
@@ -75,17 +75,17 @@ export default function Home() {
         
         <div className="icon-column">
           <div className="icon">
-            <a href="https://www.linkedin.com/in/kevin-hu1/" target="_blank" rel="noopener noreferrer">
+            <a href="www.linkedin.com/in/adrian-tang-6160741b1" target="_blank" rel="noopener noreferrer">
               <AiFillLinkedin size={50}/>
             </a>
           </div>
           <div className="icon">
-            <a href="https://github.com/Kevmister331" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/adriantangg/" target="_blank" rel="noopener noreferrer">
                 <AiFillGithub size={50}/>
             </a>  
           </div>
           <div className="icon">
-            <a href="mailto:kevinhu738@gmail.com">
+            <a href="mailto:adriantang.syd@gmail.com">
                 <AiOutlineMail size={50}/>
             </a>
           </div>
@@ -93,7 +93,7 @@ export default function Home() {
 
         <div className="photo-section">
           <div className="photo">
-            <img src={kevmain} alt="Kevin Photo" />
+            <img src={kevmain} alt="Adrian Photo" />
           </div>
         </div>
       </section>
