@@ -38,7 +38,7 @@ export default function Home() {
       <header>
         <div className="header-left">
           <p>Hi, I'm</p>
-          <p>Kevin Hu</p>
+          <p>Adrian Tang</p>
         </div>
         <div className="header-right">
           <p></p>
